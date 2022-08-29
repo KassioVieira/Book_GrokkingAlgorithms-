@@ -1,5 +1,6 @@
 # Book_GrokkingAlgorithms
 
-Hello there.
+Implementação de algoritmos e exercicíos do livro Entendendo Algoritmos
 
-Here I am implementing algorithms and exercises of the book Grokking Algorithms.
+ - [Busca Binária](/BinarySearch.md)
+ - Recursão

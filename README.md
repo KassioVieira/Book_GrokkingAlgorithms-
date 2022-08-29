@@ -2,4 +2,4 @@
 
 Hello there.
 
-Here I am implementing algorithms studied in the book Grokking Algorithms.
+Here I am implementing algorithms and exercises of the book Grokking Algorithms.
